@@ -4,11 +4,6 @@ Karios is a tool that allows users to do find and list home rentals.
 
 What makes kairos different is that users can list their currently leased rental and see others that are under contract with the idea that anyone on the site is open to moving. It allows greater flexibility for people to find a home that better suits their needs.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-* You have installed the latest version of Ruby.
-
 ## Using kairos
 
 To use kairos, follow these steps:
@@ -37,11 +32,6 @@ To contribute to kairos, follow these steps:
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
-
-
-## Contact
-
-If you want to contact me you can reach me at <penajackc@gmail.com>.
 
 ## License
 MIT
